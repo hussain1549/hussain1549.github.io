@@ -30,6 +30,8 @@ author:
   employer         : # e.g. "University of Southern Denmark" (left blank for now)
   uri              : # URL
   email            : "hussainbuic@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=NXhAktgAAAAJ"
+  orcid            : "https://orcid.org/0000-0002-5109-0590"
 
   # Academic websites
   academia         : # URL
