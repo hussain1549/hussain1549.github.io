@@ -55,6 +55,6 @@ Languages
 
 References
 ======
-* Dr. Saleem Aslam, Professor, Bahria University, Pakistan, saleem.buic@bahria.edu.pk
+* Dr. Saleem Aslam, Professor, Department of Electrical Engineering, Bahria University, Pakistan, saleem.buic@bahria.edu.pk
 * Dr. Rashid Ali, Senior Lecturer, Department of Engineering Science, University West, Sweden, rashid.ali@hv.se
-* Dr. Ammara Nasim, Associate Professor, Bahria University, Islamabadd, Pakistan, ammaranaseem.buic@bahria.edu.pk
+* Dr. Ammara Nasim, Associate Professor, Department of Electrical Engineering, Bahria University, Islamabadd, Pakistan, ammaranaseem.buic@bahria.edu.pk
