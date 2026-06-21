@@ -13,9 +13,9 @@ title                    : "Hussain Ahmad"
 title_separator          : "-"
 name                     : &name "Hussain Ahmad"
 description              : &description "Personal academic site of Hussain Ahmad, electronics engineer working on URLLC and 6G wireless communication"
-url                      : https://YOUR-USERNAME.github.io # TODO: replace YOUR-USERNAME with your GitHub username (must match your repo name exactly)
+url                      : https://hussain1549.github.io # TODO: replace YOUR-USERNAME with your GitHub username (must match your repo name exactly)
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "YOUR-USERNAME/YOUR-USERNAME.github.io" # TODO: replace YOUR-USERNAME with your GitHub username
+repository               : "hussain1549/hussain1549.github.io" # TODO: replace YOUR-USERNAME with your GitHub username
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
