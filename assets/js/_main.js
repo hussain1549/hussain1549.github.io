@@ -141,3 +141,18 @@ $(document).ready(function () {
   });
 
 });
+/* ==========================================================================
+   Smooth page transitions
+   ========================================================================== */
+
+const main = document.querySelector('main');
+
+window.addEventListener('beforeunload', () => {
+  main.style.opacity = 0;
+  // Add a loading spinner or placeholder here if you want
+});
+
+window.addEventListener('load', () => {  
+  main.style.transition = 'opacity 0.2s ease-in-out';
+  main.style.opacity = 1;
+});
