@@ -30,16 +30,14 @@ author:
   employer         : # e.g. "University of Southern Denmark" (left blank for now)
   uri              : # URL
   email            : "hussainbuic@gmail.com"
-  googlescholar    : "https://scholar.google.com/citations?user=NXhAktgAAAAJ"
-  orcid            : "https://orcid.org/0000-0002-5109-0590"
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # TODO: add your Google Scholar profile URL, e.g. https://scholar.google.com/citations?user=XXXX
+  googlescholar    : "https://scholar.google.com/citations?user=NXhAktgAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # TODO: add your ORCID URL, e.g. https://orcid.org/0000-0000-0000-0000
+  orcid            : "https://orcid.org/0000-0002-5109-0590"
   semantic         : # TODO (optional): your Semantic Scholar profile URL
   ssrn             : # URL
   pubmed           : # URL
