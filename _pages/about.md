@@ -24,12 +24,13 @@ Alongside the research side, I have hands-on industry experience in embedded sys
 
 ## Education
 
-- **MSc in Electronics Engineering**, University of Southern Denmark, Sønderborg, 2021-2023
-  - Thesis: Dynamic System modelling for industrial electronics systems 
+- **MSc in Electronics Engineering**, University of Southern Denmark, Sønderborg, Denmark 2021-2023
+  - Thesis: Dynamic System modelling for industrial electronics systems (Siemens)
+  - Acievement: Denmark Government Scholarship 
 
 - **BSc in Electrical Engineering**, Bahria University, Islamabad, Pakistan, 2015-2019
   - Graduated with First Class Honours
-  - Thesis: "Short-Range Optical Wireless Communication using Li-Fi"
+  - Thesis: "Short-Range Optical Wireless Communication using Li-Fi" (Distiction)
   - 
 ## Get in touch
 
