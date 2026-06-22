@@ -22,6 +22,15 @@ Alongside the research side, I have hands-on industry experience in embedded sys
 - mmWave and line-of-sight links
 - Resilient communication for drone swarms and defence-relevant systems
 
+## Education
+
+- **MSc in Electronics Engineering**, University of Southern Denmark, Sønderborg, 2021-2023
+  - Thesis: Dynamic System modelling for industrial electronics systems 
+
+- **BSc in Electrical Engineering**, Bahria University, Islamabad, Pakistan, 2015-2019
+  - Graduated with First Class Honours
+  - Thesis: "Short-Range Optical Wireless Communication using Li-Fi"
+  - 
 ## Get in touch
 
 You can find my recent work on the [Publications](/publications/) page and a summary of my background on the [CV](/cv/) page. Feel free to reach out by email at [hussainbuic@gmail.com](mailto:hussainbuic@gmail.com).
