@@ -24,6 +24,10 @@ Alongside the research side, I have hands-on industry experience in embedded sys
 
 ## Education
 
+- **PhD in Signal Theory and Networking**, Politechnic University of Catalonia, Barcelona, Spain 2026
+  - Topic: Pervasive resource orchestration for 6G mobile networks 
+  - Acievement: Marie Skłodowska-Curie Actions (MSCA) PhD Fellowship 
+
 - **MSc in Electronics Engineering**, University of Southern Denmark, Sønderborg, Denmark 2021-2023
   - Thesis: Dynamic System modelling for industrial electronics systems (Siemens)
   - Acievement: Denmark Government Scholarship 
