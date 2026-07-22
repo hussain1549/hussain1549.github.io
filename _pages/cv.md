@@ -13,7 +13,6 @@ redirect_from:
 
 Education
 ======
-* PhD in Signal Theory and Networking, Universitat Politècnica de Catalunya (UPC), Barcelona, 2023-Present
 * MSc in Electronics Engineering, University of Southern Denmark, Sønderborg, 2021 to 2023
 * BSc in Electrical Engineering, Bahria University, Islamabad, 2015 to 2019
 
